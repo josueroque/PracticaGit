@@ -1,0 +1,13 @@
+- git reset --hard HEAD~1, usando hard para perder los cambios en working copy.
+- git reset <IDENTIFICADOR>, usando git reflog obtengo el identificador del commit y me muevo hacia el.
+- No causo conlicto, creo que es porque eltexto era el mismo solo se agragaban los estilos dde styled.
+- Si causo conflictos, en este caso el conflicto se dio porque estaban estilizados de manera diferente.
+- No causo conflicto, master ya habia absorvido a styled anteriormenete, por lo que no habian diferencias.
+- git log --all --decorate --oneline --graph
+- si, apuntaria al ultimo commit de title
+- git reset HEAD~1
+- git reset <identificador>, antes de hacer los cambios
+- git reset <identificador>, a donde habiamos hecho el merge
+- git reset <identificador>, a donde habiamos hecho el mergeiniciamos
+- git reset <identificador>, al commit  donde poniamhabiamos hecho el mergeos el titulo.  
+ 
