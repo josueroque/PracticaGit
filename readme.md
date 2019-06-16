@@ -7,7 +7,8 @@
 - si, apuntaria al ultimo commit de title
 - git reset HEAD~1
 - git reset <identificador>, antes de hacer los cambios
+- git branch -d title 
 - git reset <identificador>, a donde habiamos hecho el merge
-- git reset <identificador>, a donde habiamos hecho el mergeiniciamos
-- git reset <identificador>, al commit  donde poniamhabiamos hecho el mergeos el titulo.  
+- git reset <identificador>, a donde habiamos hecho el merge inicial
+- git reset <identificador>, al commit  donde habiamos hecho el merge del titulo.  
  
